@@ -20,6 +20,19 @@ Tools & Libraries
 - Google Colab
 - GitHub
 
+
+## How to Run
+
+### Option 1: Google Colab (Easiest)
+Click the button below to open the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Karthikeya-lol/TIRUPATI_RAINFALL-VS-MUMBAI_RAINFALL/blob/main/Mumbai%20vs%20tirupati.ipynb)
+
+### Option 2: Run on your computer
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Karthikeya-lol/TIRUPATI_RAINFALL-VS-MUMBAI_RAINFALL.git
+
 Project Workflow
 
 1. Loaded both rainfall datasets.
