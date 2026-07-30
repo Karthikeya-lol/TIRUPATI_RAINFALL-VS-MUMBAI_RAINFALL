@@ -23,6 +23,12 @@ Tools & Libraries
 
 ## How to Run
 
+first download these 2 files tirupati_rainfall (1),
+mumbai_rainfall (1)
+
+add to Google colab to run the code
+
+
 ### Option 1: Google Colab (Easiest)
 Click the button below to open the notebook directly in Google Colab:
 
